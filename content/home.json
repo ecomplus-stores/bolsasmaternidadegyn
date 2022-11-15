@@ -31,7 +31,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 4,
-      "collection_id": "61d2c59a0c7c727225ee4db2:brands:B.M.GYN:/bmgyn"
+      "collection_id": "61d2c59a0c7c727225ee4db2:brands:B.M.GYN:/bmgyn",
+      "sort": "views"
     }
   ]
 }
