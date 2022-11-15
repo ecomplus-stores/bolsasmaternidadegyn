@@ -1,7 +1,7 @@
 {
   "domain": "bolsasmaternidadegyn.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f1d246",
+  "primary_color": "#03203b",
   "theme": {
     "bootswatch": "journal",
     "custom": "_"
