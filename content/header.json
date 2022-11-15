@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Aproveite Kit Bolsas + Saída de Maternidade a partir de R$ 175,00! ",
-    "link": "/promotion"
+    "link": "https://www.bolsasmaternidadegyn.com.br/bmgyn",
+    "background": "#0d4c89",
+    "color": "#f1d246"
   },
   "contacts_stripe": {
     "pages": [
