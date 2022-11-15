@@ -1,7 +1,7 @@
 {
   "domain": "bolsasmaternidadegyn.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0d4c89",
+  "primary_color": "#f1d246",
   "theme": {
     "bootswatch": "journal",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f1d246",
+  "secondary_color": "#0d4c89",
   "icon": "/img/uploads/logo.png",
   "store_id": 23169,
   "description": "bolsasmaternidadegyn.com.br",
