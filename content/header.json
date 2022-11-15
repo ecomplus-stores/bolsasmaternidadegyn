@@ -12,15 +12,17 @@
       {
         "link": "https://www.bolsasmaternidadegyn.com.br/menino",
         "title": "MENINO"
+      },
+      {
+        "title": "MENINA",
+        "link": "https://www.bolsasmaternidadegyn.com.br/menina"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/menina?Menina"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
