@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#53829d",
   "theme": {
-    "bootswatch": "_",
-    "custom": "niche-baby"
+    "bootswatch": "journal",
+    "custom": "_"
   },
   "bg_color": "#53829d",
   "repository": "ecomplus-stores/bolsasmaternidadegyn",
