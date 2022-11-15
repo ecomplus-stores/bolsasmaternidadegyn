@@ -1,12 +1,12 @@
 {
   "domain": "bolsasmaternidadegyn.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#53829d",
+  "primary_color": "#0d4c89",
   "theme": {
     "bootswatch": "journal",
     "custom": "_"
   },
-  "bg_color": "#53829d",
+  "bg_color": "#0d4c89",
   "repository": "ecomplus-stores/bolsasmaternidadegyn",
   "logo": "/img/uploads/logo.png",
   "name": "Bolsas Maternidade Gyn",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#53829d",
+  "secondary_color": "#f1d246",
   "icon": "/img/uploads/logo.png",
   "store_id": 23169,
   "description": "bolsasmaternidadegyn.com.br",
