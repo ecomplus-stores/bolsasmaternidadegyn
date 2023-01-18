@@ -1,5 +1,5 @@
 {
-  "domain": "bolsasmaternidadegyn.com.br",
+  "domain": "babygyn.com.br",
   "currency_symbol": "R$",
   "primary_color": "#03203b",
   "theme": {
@@ -9,8 +9,8 @@
   "bg_color": "#0d4c89",
   "repository": "ecomplus-stores/bolsasmaternidadegyn",
   "logo": "/img/uploads/logo.png",
-  "name": "Bolsas Maternidade Gyn",
-  "short_name": "Bolsas-Maternidade-Gyn",
+  "name": "Baby Gyn",
+  "short_name": "Baby-Gyn",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#0d4c89",
   "icon": "/img/uploads/logo.png",
   "store_id": 23169,
-  "description": "bolsasmaternidadegyn.com.br",
+  "description": "babygyn.com.br",
   "large_icon": "/img/uploads/logo.png"
 }
