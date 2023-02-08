@@ -1,23 +1,23 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite 3% de Desconto no PIX, Frete grátis (confira a disponibilidade do CEP)",
-    "link": "https://www.bolsasmaternidadegyn.com.br/bmgyn",
+    "text": "Aproveite 3% de Desconto no PIX, Frete grátis (Verifique o CEP)",
+    "link": "https://www.babygyn.com.br/bmgyn",
     "background": "#0d4c89",
     "color": "#f1d246"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "link": "https://www.bolsasmaternidadegyn.com.br/menino",
+        "link": "https://www.babygyn.com.br/menino",
         "title": "MENINO"
       },
       {
         "title": "MENINA",
-        "link": "https://www.bolsasmaternidadegyn.com.br/menina"
+        "link": "https://www.babygyn.com.br/menina"
       },
       {
         "title": "UNISSEX",
-        "link": "https://www.bolsasmaternidadegyn.com.br/unissex"
+        "link": "https://www.babygyn.com.br/unissex"
       }
     ],
     "phone_wpp": true,
