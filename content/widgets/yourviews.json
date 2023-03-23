@@ -1,16 +1,16 @@
 {
-  "useJquery": true,
-  "productSlots": "src/append/product-slots",
+  "pkg": "@ecomplus/widget-yourviews",
   "active": false,
-  "productDescriptionAppend": "src/append/product-block",
   "desktopOnly": false,
   "enableCheckout": false,
-  "stampsAppend": "src/append/stamps",
-  "pkg": "@ecomplus/widget-yourviews",
-  "productCardSlots": "src/append/product-card-slots",
   "disablePages": false,
-  "bodyAppend": "src/append/body",
   "options": {
     "yourviewsStoreId": 23169
-  }
+  },
+  "bodyAppend": "src/append/body",
+  "productDescriptionAppend": "src/append/product-block",
+  "productCardSlots": "src/append/product-card-slots",
+  "productSlots": "src/append/product-slots",
+  "stampsAppend": "src/append/stamps",
+  "useJquery": true
 }
