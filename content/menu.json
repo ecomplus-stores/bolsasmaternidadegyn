@@ -1,6 +1,10 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "menino",
+    "menina",
+    "unissex"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
