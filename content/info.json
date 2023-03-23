@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos em Goiânia e Região e enviamos para todo o Brasil"
+    "text": "Frete Grátis Goiânia e Região (Verifique o CEP)"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em 2X sem juros"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Promoção 3% Desconto via Pix!"
   }
 }
