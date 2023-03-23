@@ -24,7 +24,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/menino?MENINO",
+      "/menina?MENINA",
+      "/unissex?UNISSEX"
+    ],
     "random": 6,
     "full_width": false
   },
