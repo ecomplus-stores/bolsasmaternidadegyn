@@ -6,20 +6,7 @@
     "color": "#f1d246"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "link": "https://www.babygyn.com.br/menino",
-        "title": "MENINO"
-      },
-      {
-        "title": "MENINA",
-        "link": "https://www.babygyn.com.br/menina"
-      },
-      {
-        "title": "UNISSEX",
-        "link": "https://www.babygyn.com.br/unissex"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
