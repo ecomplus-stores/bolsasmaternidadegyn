@@ -13,14 +13,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "sales",
+      "autoplay": "",
+      "page": "",
       "title": "",
+      "shuffle": true,
       "headless": false,
+      "type": "collection-shelf",
       "limit": "",
-      "page": ""
+      "collection_id": null,
+      "sort": "sales"
     },
     {
       "type": "dynamic-showcase",
