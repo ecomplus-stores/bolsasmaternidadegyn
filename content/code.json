@@ -1,5 +1,5 @@
 {
-  "css": "<meta http-equiv=\"Cache-Control\" content=\"public, max-age=3600\">\n<meta name=\"google-site-verification\" content=\"lMFJlNeOPUE8WtOfStc2nMno4TB-4OxewpjfxHuLQR4\" />",
+  "css": "<meta http-equiv=\"Cache-Control\" content=\"public, max-age=3600\">\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<meta name=\"google-site-verification\" content=\"lMFJlNeOPUE8WtOfStc2nMno4TB-4OxewpjfxHuLQR4\" />"
 }
