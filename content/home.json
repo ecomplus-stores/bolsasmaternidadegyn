@@ -1,6 +1,6 @@
 {
-  "meta_title": "Bolsas e Saídas de Maternidade Encantadoras para Meninos, Meninas e Unissex | BabyGyn",
-  "meta_description": "Preparando-se para a chegada do seu bebê? Descubra a coleção encantadora de bolsas e saídas de maternidade no BabyGyn. Oferecemos conjuntos completos, desde kit bolsas com saída de maternidade até opções de bolsas e saídas individuais para meninos, meninas e estilos unissex. Organização, conforto e estilo se unem para tornar os primeiros momentos inesquecíveis. Explore agora!",
+  "meta_title": "Kit Bolsas e Saídas de Maternidade Encantadoras para Meninos, Meninas e Unissex | BABY GYN",
+  "meta_description": "Preparando-se para a chegada do seu bebê? Descubra a coleção encantadora de bolsas e saídas de maternidade no BABY GYN. Oferecemos conjuntos completos, desde kit bolsas com saída de maternidade até opções de bolsas e saídas individuais para meninos, meninas e estilos unissex. Organização, conforto e estilo se unem para tornar os primeiros momentos inesquecíveis. Explore agora!",
   "sections": [
     {
       "type": "banner-slider",
@@ -13,7 +13,7 @@
       "enabled": true
     },
     {
-      "autoplay": "",
+      "autoplay": 0,
       "page": "",
       "title": "",
       "shuffle": true,
