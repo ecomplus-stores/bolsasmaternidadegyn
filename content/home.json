@@ -17,11 +17,11 @@
       "page": "",
       "title": "",
       "shuffle": true,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "limit": "",
       "collection_id": null,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "dynamic-showcase",
