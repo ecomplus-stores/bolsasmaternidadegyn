@@ -32,7 +32,7 @@
     },
     {
       "type": "buy-together",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
