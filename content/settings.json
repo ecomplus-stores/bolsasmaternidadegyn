@@ -3,24 +3,24 @@
   "currency_symbol": "R$",
   "primary_color": "#03203b",
   "theme": {
-    "bootswatch": "journal",
-    "custom": "niche-baby"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "bg_color": "#0d4c89",
+  "bg_color": "#f1d246",
   "repository": "ecomplus-stores/bolsasmaternidadegyn",
   "logo": "/img/uploads/logo.png",
   "name": "BABY GYN",
-  "short_name": "Baby-Gyn",
+  "short_name": "BABY GYN",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/logo.png",
-  "icons_font": "feather-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#0d4c89",
   "icon": "/img/uploads/logo.png",
   "store_id": 23169,
-  "description": "babygyn.com.br",
+  "description": "Organize a chegada do seu bebê com estilo!\n\nA Baby Gyn oferece:\n\nKit Bolsas de maternidade maravilhosos.\nSaídas de maternidade radiantes.\nQualidade impecável.\nFrete grátis para Goiânia e região.\nDescontos incríveis.\nAcesse e compre pelo Agora mesmo!\n\n#bolsasmaternidade #saidadematernidade #bebê #grávida #kitmaternidade",
   "large_icon": "/img/uploads/logo.png"
 }
