@@ -13,7 +13,7 @@
     },
     {
       "type": "brand-retail",
-      "enabled": true,
+      "enabled": false,
       "sort": "sales"
     },
     {
