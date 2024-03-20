@@ -15,13 +15,13 @@
     {
       "autoplay": 3000,
       "page": "",
-      "title": "",
+      "title": "DESTAQUES",
       "shuffle": true,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "limit": "",
       "collection_id": null,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
