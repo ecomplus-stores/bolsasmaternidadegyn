@@ -15,8 +15,8 @@
     {
       "type": "shelfs-nav",
       "shuffle": true,
-      "limit": 11,
-      "page": 1,
+      "limit": "",
+      "page": 3,
       "collection_ids": [
         "61e884410c7c727225175394:categories:MENINO:/menino",
         "61e8859f0c7c7272251757b2:categories:MENINA:/menina",
