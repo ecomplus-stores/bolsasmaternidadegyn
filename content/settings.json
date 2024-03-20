@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#03203b",
   "theme": {
-    "bootswatch": "simplex",
-    "custom": "_"
+    "bootswatch": "journal",
+    "custom": "niche-baby"
   },
   "bg_color": "#f1d246",
   "repository": "ecomplus-stores/bolsasmaternidadegyn",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Roboto Condensed",
   "favicon": "/img/uploads/logo.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#0d4c89",
   "icon": "/img/uploads/logo.png",
