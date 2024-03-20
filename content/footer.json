@@ -1,10 +1,10 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Explore nossos Produtos",
+    "text": "A Baby Gyn te ajuda a celebrar a chegada do seu bebê com o Kit de Bolsas e Saídas de Maternidade perfeito para você e seu pequeno! Escolha entre diversos modelos estilosos e práticos, que oferecem tudo o que você precisa para viver esse momento mágico com conforto e tranquilidade."
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Páginas",
     "list": []
   },
