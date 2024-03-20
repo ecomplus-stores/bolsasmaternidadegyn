@@ -5,7 +5,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "PROMOÇÕES"
     },
     {
       "type": "document-banner",
@@ -13,7 +14,7 @@
     },
     {
       "type": "brand-retail",
-      "enabled": false,
+      "enabled": true,
       "sort": "sales"
     },
     {
