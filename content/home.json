@@ -13,33 +13,8 @@
       "enabled": true
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": "",
-      "page": 3,
-      "collection_ids": [
-        "61e884410c7c727225175394:categories:MENINO:/menino",
-        "61e8859f0c7c7272251757b2:categories:MENINA:/menina",
-        "61e9d2ac0c7c72722519fde2:categories:UNISSEX:/unissex"
-      ],
-      "autoplay": 3000,
-      "sort": "news"
-    },
-    {
-      "autoplay": 3000,
-      "page": "",
-      "title": "DESTAQUES",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": "",
-      "collection_id": null,
-      "sort": "news"
-    },
-    {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "load_more": true
     }
   ]
 }
