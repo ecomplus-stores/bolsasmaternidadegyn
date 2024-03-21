@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d668c6a1d1920de8fd64ec78d4e99c46.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b166aabb06f30f516885f3433ce61f1c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bf0de7196d4388149cbe6b84362e552e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.59c5b787386db3eb352eed640710b701.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.76ca888259f192e2c2211833ef28a832.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "BABY GYN",
+  "short_name": "BABY GYN",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Organize a chegada do seu bebê com estilo!\n\nA Baby Gyn oferece:\n\nKit Bolsas de maternidade maravilhosos.\nSaídas de maternidade radiantes.\nQualidade impecável.\nFrete grátis para Goiânia e região.\nDescontos incríveis.\nAcesse e compre pelo Agora mesmo!\n\n#bolsasmaternidade #saidadematernidade #bebê #grávida #kitmaternidade",
+  "background_color": "#f1d246",
+  "theme_color": "#03203b"
+}
