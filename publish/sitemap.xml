@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://babygyn.com.br/menino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/menina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-com-saida-de-maternidade-para-menino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-com-saida-de-maternidade-para-menina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-menino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-menina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/saida-de-maternidade-menino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/saida-de-maternidade-menina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/unissex</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-com-saida-de-maternidade-unissex</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/kit-bolsas-unissex</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://babygyn.com.br/saida-unissex</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://babygyn.com.br/kit-bolsas-maternidade-ursinha-rosa-com-saida-maternidade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1118,85 +1190,13 @@
     </url>
   
     <url>
-      <loc>https://babygyn.com.br/menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/menina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-com-saida-de-maternidade-para-menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-com-saida-de-maternidade-para-menina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-de-maternidade-menina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/saida-de-maternidade-menino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/saida-de-maternidade-menina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/unissex</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-com-saida-de-maternidade-unissex</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/kit-bolsas-unissex</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/saida-unissex</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://babygyn.com.br/pages/privacidade</loc>
+      <loc>https://babygyn.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://babygyn.com.br/pages/entrega</loc>
+      <loc>https://babygyn.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
