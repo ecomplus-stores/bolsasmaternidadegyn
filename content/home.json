@@ -19,16 +19,12 @@
       "page": 1,
       "title": "DESTAQUES",
       "headless": false,
+      "sort": "news"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
       "sort": "views"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": null
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     }
   ]
 }
