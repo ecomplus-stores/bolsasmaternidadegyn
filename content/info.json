@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis pra GOIÁS (Verifique o CEP)"
+    "text": "Frete Grátis pra GOIÁS e DF (Verifique o CEP)"
   },
   "installments": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Desconto 5% via Pix!"
+    "text": "Desconto 5% via Pix e Boleto!"
   }
 }
