@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite 3% de Desconto no PIX, Frete grátis (Verifique o CEP)",
+    "text": "Aproveite 5% de Desconto no PIX e Boleto, Tudo em 6X Sem Juros, Frete grátis Go e DF (Verifique o CEP)",
     "link": "",
     "background": "#0d4c89",
     "color": "#f1d246"
@@ -12,7 +12,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 9,
+    "random": 12,
     "full_width": false
   },
   "desktop_megamenu": false,
