@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em 2X sem juros"
+    "text": "Parcele em 6X sem juros"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Desconto 3% via Pix!"
+    "text": "Desconto 5% via Pix!"
   }
 }
